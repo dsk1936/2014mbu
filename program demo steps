@@ -1,0 +1,42 @@
+Program 1: print name message
+
+create base file setup (if __name__ == "__main__": main())
+print string
+print var
+print string and var
+get var from command line and print array
+print arg from cmd line
+print name message with cmd line
+add default name if arg not set
+add logic if specific name set
+add else logic for others
+
+
+replace string format with format() method
+
+Program 2: temperature converter
+1 - base setup
+2 - init & print nDegF var - stacktrace
+3 - string formating
+4 - convert nDegF var to celcius (formula provided) and print to screen
+	change the nDegF var to value to test
+	10, 40, 100, -10, 98.5
+5 - change string formatting from int to float, explain float vs int
+5.5 - add precision to floating formating
+
+6 - read var from input
+6.5 - convert input to float
+
+7 - encase formula in loop that asks for temp
+7.5 - init cont var
+
+8 - add end loop logic
+
+9 - print creative message, use if statements
+
+
+give creative message based on temp
+refactor temp fomula to function
+refactor message to function
+
+get tempF from cmdline

@@ -8,6 +8,11 @@ def main():
 		
 		sDegF = raw_input("Please enter a temperture in Fahrenheit:")
 		
+		assert 'y' != sDegF.lower()
+		
+		import pdb
+		pdb.set_trace()
+		
 		nDegF = float(sDegF)
 		
 		print "%0.1f Degrees Fahrenheit" % nDegF
